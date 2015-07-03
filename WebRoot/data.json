@@ -1,0 +1,34 @@
+[	
+	{
+		"id":1,
+		"name":"a",
+		"persons":"a",
+		"begin":"a",
+		"end":"a",
+		"iconCls":"icon-ok",
+		"children":[{
+			"id":2,
+			"name":"b",
+			"persons":"b",
+			"begin":"b",
+			"end":"b",
+			"iconCls":"icon-ok"
+		}]
+	},
+	{
+		"id":3,
+		"name":"a",
+		"persons":"a",
+		"begin":"a",
+		"end":"a",
+		"iconCls":"icon-ok",
+		"children":[{
+			"id":4,
+			"name":"b",
+			"persons":"b",
+			"begin":"b",
+			"end":"b",
+			"iconCls":"icon-ok"
+		}]
+	}
+]
